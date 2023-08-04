@@ -20,7 +20,7 @@ This repository contains the front-end code for a procurement system that provid
 
 ## Getting Started
 
-1. Clone the repository: `git clone [<repository-url>](https://github.com/Syrym-Zhakypbekov/airastanaprocurement/)`
+1. Clone the repository: `git clone https://github.com/Syrym-Zhakypbekov/airastanaprocurement/`
 2. Open the HTML file in your preferred browser.
 3. Explore the application.
 
